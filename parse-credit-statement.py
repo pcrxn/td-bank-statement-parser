@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 
 """
-PARSE-STATEMENT
+parse-credit-statement.py
 Author: Liam Brown
 
-Parse a PDF-formatted Toronto-Dominion (TD) Bank statement into tabular format.
+Parse a PDF-formatted Toronto-Dominion (TD) Bank credit card statement into tabular format.
 
 Dependencies:
     python >= 3.11.0
